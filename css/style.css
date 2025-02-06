@@ -1,0 +1,20 @@
+.til{
+    color: blue;
+}
+.bg{
+    background-color: rgb(65,65,136);
+}
+.btn{
+    background-color: rgba(255, 255, 255, 0.627);
+    margin-bottom:5px;
+    color: black;
+}
+.til2{
+    color: aliceblue;
+}
+.inp{
+    background-color:rgb(65, 65, 136);
+    border-top-color:rgb(65, 65, 136) ;
+    border-right-color: rgb(65, 65, 136);
+    border-left-color: rgb(65,65,136);
+}
